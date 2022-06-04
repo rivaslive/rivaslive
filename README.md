@@ -1,16 +1,36 @@
-### Hi there 👋
+<h2>
+<img src="name.svg" alt="Kevin Rivas" />
+<br>
+<br>
+<img align='right' src="./me.png" width="250" />
+<p style="font-size: 16px">Software Engineer at <a href="hhttps://www.scotiabankcr.com/personas/default.aspx">Scotiabank Costa Rica
+</a>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+</p>
+</h2>
 
-<!--
-**rivaslive/rivaslive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
 
-Here are some ideas to get you started:
+I'm Kevin Rivas, a Systems and Computing Engineer. I am passionate about creating software with JavaScript/TypeScript,
+although I am a Fullstack Developer I feel better as a Frontend, you can take a look at my published packages on npm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## NPM Packages
+
+- <img src="https://www.beauty-design.app/favicon.png" width="20"></img> [react-native-beauty-design](https://www.npmjs.com/package/react-native-beauty-design)
+- <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="20"></img> [antd-notifications-messages](https://www.npmjs.com/package/antd-notifications-messages)
+- <img src="https://nodejs.org/static/images/logo.svg" width="30"></img> [create-rivas-node](https://www.npmjs.com/package/create-rivas-node)
+
+## Skills
+
+- 👨‍💻 TypeScript, JavaScript, Python
+- ⚙️ React, NextJs, VanillaJs
+- 👁️ styled-components, Storybook
+- 💽 Mongo, MySQL, SQL
+
+## Contact
+
+[![Linkedin: Kevin Rivas](https://img.shields.io/badge/-follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-rivas-frontend-developer/)](https://www.linkedin.com/in/kevin-rivas-frontend-developer/)
+![GitHub followers](https://img.shields.io/github/followers/rivaslive?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://kevin-rivas.vercel.app/)](https://kevin-rivas.vercel.app/)
+
+Created with love ❤️
