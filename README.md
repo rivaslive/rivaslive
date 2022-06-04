@@ -1,13 +1,4 @@
-<h2>
-<img src="name.svg" alt="Kevin Rivas" />
-<br>
-<br>
-<img align='right' src="./me.png" width="250" />
-<p style="font-size: 16px">Software Engineer at <a href="hhttps://www.scotiabankcr.com/personas/default.aspx">Scotiabank Costa Rica
-</a>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
-</p>
-</h2>
+<h2><img src="name.svg" alt="Kevin Rivas" style="margin-bottom: 30px" /><img align='right' src="./me.png" width="250" /><p style="font-size: 16px">Software Engineer at <a href="hhttps://www.scotiabankcr.com/personas/default.aspx">Scotiabank Costa Rica</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/></p></h2>
 
 ## Hey! 👋
 
