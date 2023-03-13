@@ -13,7 +13,7 @@ although I am a Fullstack Developer I feel better as a Frontend, you can take a 
 
 ## NPM Packages
 
-- <img src="https://www.redshank.app/favicon.png" width="20"></img> [React Native Redshank](https://www.npmjs.com/package/@redshank/native)
+- <img src="https://www.redshank.app/favicon.ico" width="20"></img> [React Native Redshank](https://www.npmjs.com/package/@redshank/native)
 - <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="20"></img> [antd-notifications-messages](https://www.npmjs.com/package/antd-notifications-messages)
 - <img src="https://nodejs.org/static/images/logo.svg" width="30"></img> [create-rivas-node](https://www.npmjs.com/package/create-rivas-node)
 
