@@ -23,7 +23,7 @@ although I am a Fullstack Developer I feel better as a Frontend, you can take a 
 - ⚙️ React, NextJs, VanillaJs
 - 👁️ styled-components, Storybook
 - 💽 Mongo, MySQL, SQL
-- Express, Nest, Nodejs
+- Express, Nestjs, Nodejs
 
 ## Contact
 
