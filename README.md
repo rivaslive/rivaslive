@@ -1,7 +1,7 @@
 <div>
 <img src="name.svg" alt="Kevin Rivas" style="margin-bottom: 30px" />
 <img align='right' src="./me.png" width="250" />
-<p style="font-size: 16px">Software Engineer at <a href="https://membranelabs.com" target="_blank" rel="noopener noreferrer">Membranelabs</a>
+<p style="font-size: 16px">Software Engineer at <a href="https://usekaya.ai" target="_blank" rel="noopener noreferrer">Kaya AI</a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 </p>
 </div>
